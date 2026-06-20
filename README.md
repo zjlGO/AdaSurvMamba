@@ -1,8 +1,8 @@
-# AdaSurvMamba
-
 <p align="center">
-  <img src="assets/readme_banner.png" alt="AdaSurvMamba banner" width="100%">
+  <img src="fig.png" alt="AdaSurvMamba overview" width="100%">
 </p>
+
+# AdaSurvMamba
 
 This repository is the public code skeleton for AdaSurvMamba, a multimodal survival analysis project using whole slide image features and genomic profiles.
 
